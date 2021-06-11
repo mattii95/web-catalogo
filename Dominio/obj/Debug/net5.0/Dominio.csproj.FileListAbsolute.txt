@@ -1,0 +1,12 @@
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Dominio\obj\Debug\net5.0\Dominio.pdb

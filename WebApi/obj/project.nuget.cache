@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNHTO4lZy45bJT/xl0hSjxfqsnhkRXq3UFZL/vG4fyeD2KQb9DLOU1ZRrxdoVHv7vztGCsP8YsQk2wKV4XAGqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcour\\Desktop\\Courroux Digital\\zamparolo_web\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcour\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mcour\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mcour\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\mcour\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\mcour\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\mcour\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\mcour\Desktop\Courroux Digital\zamparolo_web\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
